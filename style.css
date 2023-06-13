@@ -20,6 +20,11 @@ section {
   box-sizing: border-box;
 }
 
+.nav-logo-container {
+  height: 100px;
+  width: 100px;
+}
+
 header {
     position: fixed;
     top: 0;
